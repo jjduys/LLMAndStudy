@@ -2,13 +2,11 @@
 ## 内容说明
 
 ## 目录说明
+* Ref_Document        　　　　论文参考的文档     
+* Paper   论文    
+*   |————  Ori_xxx       　　　　原始手稿    
+*   |————  GPT_xxx      　　　　 机器修改语法后的手稿    
 
-Ref_Document        　　　　论文参考的文档     
-
-Paper   论文    
-  |————  Ori_xxx       　　　　原始手稿    
-  |————  GPT_xxx      　　　　 机器修改语法后的手稿    
-
-Code    　　　　实验代码    
+* Code    　　　　实验代码    
 
 ## 代码说明
